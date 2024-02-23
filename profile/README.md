@@ -73,7 +73,7 @@ The organization is designed to reuse common software design patterns used in fr
 *
 
 7. Laravel Template
-*
+*  Authentication
 
 8. C# Template
 *
@@ -95,11 +95,11 @@ The organization is designed to reuse common software design patterns used in fr
   - [ ] Telegram Mini App Template
 
 - [ ] Backend Project
-  - [ ] FastAPI Template
+  - [x] FastAPI Template
   - [ ] Bun/NodeJS Template
   - [ ] Golang Template
   - [ ] SpringBoot Template
-  - [ ] Laravel Template
+  - [x] Laravel Template
   - [ ] C# Template
 
 - [ ] Other
