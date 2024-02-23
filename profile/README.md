@@ -60,7 +60,8 @@ The organization is designed to reuse common software design patterns used in fr
 #### Backend
 
 1. FastAPI Template
-*
+* Factory Pattern
+* Authentication
 
 3. Bun/NodeJS Template
 *
