@@ -36,7 +36,7 @@
 
 ## Getting Started
 
-The organization is designed to reuse common software design patterns used in frontend and backend projects. If you're collaborating on something that I haven't listed please provide the best possible architecture, for example: Factory Pattern, SOLID principles, or Domain-Driven-Design and implement authentication as it is used entirely everywhere, so that is a great addition to a starter kit. 
+The organization is designed to reuse common software design patterns used in frontend and backend projects. If you're collaborating on something that I haven't listed, please provide the best possible architecture. For example, the Factory Pattern, SOLID principles, Domain-Driven Design and/or MVC(if applicable). Implement authentication as it is used entirely everywhere, so that is a great addition to a starter kit. You're more than welcome to improve what's already been created.
 
 #### Frontend
 
@@ -73,7 +73,8 @@ The organization is designed to reuse common software design patterns used in fr
 *
 
 7. Laravel Template
-*  Authentication
+* MVC
+* Authentication
 
 8. C# Template
 *
