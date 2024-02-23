@@ -73,7 +73,7 @@ The organization is designed to reuse common software design patterns used in fr
 *
 
 7. Laravel Template
-* MVC
+* MVC Pattern
 * Authentication
 
 8. C# Template
