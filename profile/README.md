@@ -37,6 +37,7 @@
 ## Getting Started
 
 The organization is designed to reuse common software design patterns used in frontend and backend projects as templates after a new repository is created.
+At minimum, each template needs architecture for large scale projects and authentication because it's used entirely everywhere.
 Enhancements are welcomed for designing the best possible architecture, for example:
 1. Factory Pattern, SOLID principles, and Domain-Driven-Design, and/or MVC **(backend)**
 2. Advanced File Based Routing/Pattern Matching and State Management  **(frontend)**
