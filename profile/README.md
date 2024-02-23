@@ -36,7 +36,7 @@
 
 ## Getting Started
 
-The organization is designed to reuse common software design patterns used in frontend and backend projects.
+The organization is designed to reuse common software design patterns used in frontend and backend projects. If you're collaborating on something that I haven't listed please provide the best possible architecture, for example: Factory Pattern, SOLID principles, or Domain-Driven-Design and implement authentication as it is used entirely everywhere, so that is a great addition to a starter kit. 
 
 #### Frontend
 
