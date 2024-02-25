@@ -59,6 +59,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 *
 
 5. Telegram Mini App
+* File-Based Routing
 * API Integration
 
 
@@ -87,7 +88,8 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 #### Other 
 
 1. LaTeX
-*
+* CI/CD pipeline
+* DRY principle
 
 <!-- ROADMAP -->
 
@@ -108,8 +110,8 @@ Enhancements are welcomed for designing the best possible architecture, for exam
   - [x] Laravel Template
   - [ ] C# Template
 
-- [ ] Other
-  - [ ] LaTeX Template
+- [x] Other
+  - [x] LaTeX Template
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
