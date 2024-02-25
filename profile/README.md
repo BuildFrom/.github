@@ -59,7 +59,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 *
 
 5. Telegram Mini App
-*
+* API Integration
 
 
 #### Backend
@@ -98,7 +98,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
   - [ ] SvelteKit Template
   - [ ] NextJS Template
   - [ ] Flutter Template
-  - [ ] Telegram Mini App Template
+  - [x] Telegram Mini App Template
 
 - [ ] Backend Project
   - [x] FastAPI Template
