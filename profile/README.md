@@ -57,6 +57,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 * Shadcn UI Library
 * File-Based Routing
 * SPA
+* Support .mdx file type
 
 4. Flutter
 *
