@@ -53,7 +53,10 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 *
 
 3. NextJS
-*
+* Dark Mode
+* Shadcn UI Library
+* File-Based Routing
+* SPA
 
 4. Flutter
 *
@@ -98,7 +101,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 - [ ] Frontend Project
   - [x] Playwright E2E Template
   - [ ] SvelteKit Template
-  - [ ] NextJS Template
+  - [x] NextJS Template
   - [ ] Flutter Template
   - [x] Telegram Mini App Template
 
