@@ -92,7 +92,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 
 1. LaTeX
 * CI/CD pipeline
-* DRY principle
+* DRY
 
 <!-- ROADMAP -->
 
