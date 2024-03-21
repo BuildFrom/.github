@@ -77,7 +77,8 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 *
 
 4. Golang Template
-*
+* Here we have a ton of goodies, including domain-driver-design, kubernetes, otel, and many more
+* Credits to https://github.com/ardanlabs/service
    
 6. SpringBoot Template
 *
@@ -109,7 +110,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 - [ ] Backend Project
   - [x] FastAPI Template
   - [ ] Bun/NodeJS Template
-  - [ ] Golang Template
+  - [x] Golang Template
   - [ ] SpringBoot Template
   - [x] Laravel Template
   - [ ] C# Template
