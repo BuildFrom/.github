@@ -119,9 +119,11 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## External Credible Sources
-* https://github.com/ardanlabs/service [Go]
-* https://frontendmasters.com/workshops/fullstack-go-aws/ [Go]
+<!--
+# ## External Sources
+# * https://github.com/ardanlabs/service [Go]
+# * https://frontendmasters.com/workshops/fullstack-go-aws/ [Go]
+-->
 
 <!-- LICENSE -->
 
