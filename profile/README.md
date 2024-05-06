@@ -39,61 +39,80 @@
 The organization is designed to reuse common software design patterns used in frontend and backend projects as templates after a new repository is created.
 At minimum, each template needs architecture for large scale projects and authentication because it's used entirely everywhere.
 Enhancements are welcomed for designing the best possible architecture, for example:
-1. Factory Pattern, SOLID principles, and Domain-Driven-Design, and/or MVC **(backend)**
-2. Advanced File Based Routing/Pattern Matching and State Management  **(frontend)**
-3. ... **(microservices)**
+
+```bash
+DDD: Domain Driven Design
+CQRS: Command Query Responsibility Segregation
+MVC: Model, View, Controller
+FSD: Feature-Sliced Design
+```
+
+| Stack         | Architecture                                                                     |
+| ------------- | ---------------------------------------------------------------------------------|
+| Backend       | Factory Pattern, DDD, CQRS, MVC                                                  |
+| Frontend      | Advanced File Based Routing / Pattern Matching, FSD, and State Management        | 
+| Microservices | ...                                                                              |
+
 
 #### Frontend
 
-1. Playwright E2E Testing
-* Page Object Model
-* HTML Reporter to GitHub Pages using GitHub Actions
+1. **Playwright E2E Testing**
+   - Page Object Model
+   - HTML Reporter to GitHub Pages using GitHub Actions
 
-2. SvelteKit
-*
+2. **SvelteKit**
+   - SvelteKit-FSD
+     - Feature-Sliced Design
+     - Shadcn
 
-3. NextJS
-* Dark Mode
-* Shadcn UI Library
-* File-Based Routing
-* SPA
-* Support .mdx file type
+3. **NextJS**
+   - Dark Mode
+   - Shadcn UI Library
+   - File-Based Routing
+   - SPA
+   - Support .mdx file type
 
-4. Flutter
-*
+4. **Flutter**
+   - (To be implemented)
 
-5. Telegram Mini App
-* File-Based Routing
-* API Integration
+5. **Telegram Mini App**
+   - File-Based Routing
+   - API Integration
 
+### Backend
 
-#### Backend
+1. **FastAPI Template**
+   - Factory Pattern
+   - Authentication
 
-1. FastAPI Template
-* Factory Pattern
-* Authentication
+2. **Bun/NodeJS Template**
+   - SOLID
+   - OpenAPI Specification
+   - Database Providers
 
-3. Bun/NodeJS Template
-*
+3. **Golang Template**
+   - (To be implemented)
 
-4. Golang Template
-* 
-   
-6. SpringBoot Template
-*
+4. **SpringBoot Template**
+   - (To be implemented)
 
-7. Laravel Template
-* MVC Pattern
-* Authentication
+5. **Laravel Template**
+   - MVC Pattern
+   - Authentication
 
-8. C# Template
-*
+6. **C# Template**
+   - (To be implemented)
 
 #### Other 
 
-1. LaTeX
-* CI/CD pipeline
-* DRY
+1. **LaTeX**
+   - CI/CD pipeline
+   - DRY
+
+2. **Plotly Dash**
+   - FastAPI server
+   - API setup
+   - TailwindCSS
 
 <!-- ROADMAP -->
 
@@ -101,7 +120,7 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 
 - [ ] Frontend Project
   - [x] Playwright E2E Template
-  - [ ] SvelteKit Template
+  - [x] SvelteKit Template
   - [x] NextJS Template
   - [ ] Flutter Template
   - [x] Telegram Mini App Template
@@ -116,14 +135,23 @@ Enhancements are welcomed for designing the best possible architecture, for exam
 
 - [x] Other
   - [x] LaTeX Template
+  - [x] Plotly Dash
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--
-# ## External Sources
-# * https://github.com/ardanlabs/service [Go]
-# * https://frontendmasters.com/workshops/fullstack-go-aws/ [Go]
--->
+## External Sources
+
+When striving to write clean code, it's often helpful to refer to established style guides and best practices. Here are some valuable resources worth checking out:
+
+- [Airbnb Style Guides](https://github.com/airbnb/javascript)
+  Airbnb provides comprehensive style guides for various programming languages, including JavaScript. These guides cover a wide range of topics, from syntax and formatting to architectural decisions.
+
+- [Uber Style Guides](https://github.com/uber-go/guide/blob/master/style.md)
+  Uber offers style guides tailored specifically for Go programming. These guides provide recommendations on code organization, naming conventions, error handling, and more, based on Uber's extensive experience with Go development.
+
+By consulting these resources, you can gain insights into industry-standard practices and adopt conventions that promote readability, maintainability, and consistency in your codebase.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
