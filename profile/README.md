@@ -153,6 +153,17 @@ By consulting these resources, you can gain insights into industry-standard prac
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Design decisions:
+
+|Company|Description|Needs|Goal|
+|--|--|--|--|
+|Sole Developer|It's just you, you want to have fun and not get burned out by GitHub requests|Keep it Simple! Scale may not be the top priority, but avoiding spaghetti is.|Modular Monolith|
+|Small Startup|You're just getting going and don't have many customers yet|Keep costs low. Keep it simple. Scale isn't a priority now, but you hope it will be. Telemetry.|Modular Monolith|
+|Rapidly Expanding|You've got customers and need to scale to fit demand.|Telemetry, understand the pain points. Code that supports adding developers.|Modular Monolith that can be divided|
+|Webscale!|You've made it! You're supporting Google-style load, and heating data-centers around the world.|Telemetry, Manageability, Supporting Diverse Teams|Readily divided services|
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## License
