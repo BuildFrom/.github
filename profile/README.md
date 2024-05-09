@@ -103,6 +103,10 @@ FSD: Feature-Sliced Design
 6. **C# Template**
    - (To be implemented)
 
+7. **Rust Template**
+   - Separation of concerns
+   - API server
+
 #### Other 
 
 1. **LaTeX**
@@ -132,6 +136,7 @@ FSD: Feature-Sliced Design
   - [ ] SpringBoot Template
   - [x] Laravel Template
   - [ ] C# Template
+  - [x] Rust
 
 - [x] Other
   - [x] LaTeX Template
