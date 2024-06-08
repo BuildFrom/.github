@@ -154,6 +154,9 @@ When striving to write clean code, it's often helpful to refer to established st
 - [Uber Style Guides](https://github.com/uber-go/guide/blob/master/style.md)
   Uber offers style guides tailored specifically for Go programming. These guides provide recommendations on code organization, naming conventions, error handling, and more, based on Uber's extensive experience with Go development.
 
+- [Google Style Guides](https://google.github.io/styleguide/)
+  Google has guides for numerous programming languages.
+
 - [shadcn/ui theme generator](https://zippystarter.com/tools/shadcn-ui-theme-generator)
   Generate custom themes with, better customization than the official offering.
 
