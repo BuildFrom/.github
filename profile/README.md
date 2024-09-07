@@ -78,6 +78,11 @@ FSD: Feature-Sliced Design
 5. **Telegram Mini App**
    - File-Based Routing
    - API Integration
+  
+6. **React Native Expop**
+   - File-Based Routing
+   - Client Components
+   - Theming
 
 ### Backend
 
@@ -127,6 +132,7 @@ FSD: Feature-Sliced Design
   - [x] SvelteKit Template
   - [x] NextJS Template
   - [ ] Flutter Template
+  - [x] React Native Expo
   - [x] Telegram Mini App Template
 
 - [ ] Backend Project
