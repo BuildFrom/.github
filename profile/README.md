@@ -79,7 +79,7 @@ FSD: Feature-Sliced Design
    - File-Based Routing
    - API Integration
   
-6. **React Native Expop**
+6. **React Native Expo**
    - File-Based Routing
    - Client Components
    - Theming
@@ -122,6 +122,10 @@ FSD: Feature-Sliced Design
    - FastAPI server
    - API setup
    - TailwindCSS
+    
+2. **OpenAI Agents SDK**
+   - OpenAI compatible model Gemma3
+   - Ollama
 
 <!-- ROADMAP -->
 
@@ -147,6 +151,7 @@ FSD: Feature-Sliced Design
 - [x] Other
   - [x] LaTeX Template
   - [x] Plotly Dash
+  - [x] OpenAI Agents SDK 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
