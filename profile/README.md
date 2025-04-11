@@ -151,7 +151,8 @@ FSD: Feature-Sliced Design
 - [x] Other
   - [x] LaTeX Template
   - [x] Plotly Dash
-  - [x] OpenAI Agents SDK 
+  - [x] OpenAI Agents SDK
+  - [ ] Gemini Agents SDK
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
